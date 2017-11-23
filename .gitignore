@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.VC.db
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,10 @@
 *.exe
 *.out
 *.app
+
+# Dir
+win32/
+ipch/
+Debug/
+Release/
+.vs/
